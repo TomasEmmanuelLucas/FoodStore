@@ -23,6 +23,15 @@ Productos
 Usuarios
 Pedidos
 
+Repositorio GitHub
+Link al repositorio:
+https://github.com/TomasEmmanuelLucas/FoodStore.git
+
+Video Explicativo
+Link al video:
+https://youtu.be/5XLvNWh8S9w
+
+
 Autor
 
 Tomás Lucas
